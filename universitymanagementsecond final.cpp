@@ -6,6 +6,7 @@
 #include<cstring>
 #include<iomanip>
 #include <stdlib.h>
+// testing 
 using namespace std;
 fstream file;
 void great(double data);
